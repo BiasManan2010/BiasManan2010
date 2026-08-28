@@ -1,30 +1,71 @@
-<!-- Profile README for BiasManan2010. LinkedIn slug: manan-bharti (edit if needed). -->
-
 <div align="center">
 
-<!-- ========== 1. HEADER ========== -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&width=720&height=44&lines=Full-Stack+Developer;AI%2FML+Engineer+in+progress;B.Tech+CS+%40+Thapar+Institute;Building+AI+systems"
-  alt="Animated intro"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer+in+progress;B.Tech+CS+%40+Thapar+Institute;Building+AI+systems" alt="Typing SVG" />
 
-<br>
-
-<svg width="420" height="8" viewBox="0 0 420 8" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
-  <defs>
-    <linearGradient id="scanline" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#00FF9F"/>
-      <stop offset="1" stop-color="#00E5FF"/>
-    </linearGradient>
-  </defs>
-  <rect y="2" width="420" height="4" rx="2" fill="url(#scanline)"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20" width="100%"/>
 
 </div>
 
-<br>
+<br/>
 
-<!-- ========== 2. TERMINAL whoami ========== -->
+<div align="center">
+
+```
+BiasManan2010@github ~ $ ./profile-scan --live
+```
+
+</div>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+**`VISUAL.MAP`**
+
+```
+░░░░░░░░░░░░░░░░░░░░
+░░▒▒▒▒▓▓▓▓▓▓▒▒▒▒░░░░
+░▒▓▓████████▓▓▒░░░░
+▒▓██▓▓░░░░▓▓██▓▒░░░░
+▓██▓░░▒▒▒▒░░▓██▓░░░░
+▓█▓░▒▓████▓▒░▓█▓░░░░
+▓█▓░▓██░░██▓░▓█▓░░░░
+▓██▓░▒▓▓▓▓▒░▓██▓░░░░
+▒▓██▓▒░░░░▒▓██▓▒░░░░
+░▒▓████▓▓████▓▒░░░░
+░░▒▒▓▓▓▓▓▓▓▓▒▒░░░░░░
+░░░░▒▒▒▒▒▒▒▒░░░░░░░░
+```
+<sub>ASCII render — swap for a live avatar-to-ASCII service if desired</sub>
+
+</td>
+<td width="55%" valign="top">
+
+**`SYSTEM.INFO`**
+
+| Field | Value |
+|---|---|
+| Subject | Manan Bharti |
+| Handle | [`@BiasManan2010`](https://github.com/BiasManan2010) |
+| Role | Full-Stack Developer \| AI Engineer (in training) |
+| Status | 🟢 Building • Learning • Shipping |
+| Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BiasManan2010&label=&query=public_repos&color=39FF14&style=flat-square) |
+| Contributions | ![Streak](https://streak-stats.demolab.com/?user=BiasManan2010&theme=dark&hide_border=true&background=00000000) |
+| Followers | ![Followers](https://img.shields.io/github/followers/BiasManan2010?label=&color=39FF14&style=flat-square) |
+| Stars | ![Stars](https://img.shields.io/github/stars/BiasManan2010/BiasManan2010?label=&color=39FF14&style=flat-square) |
+| Contact | `mananbhartilks@gmail.com` |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub># every panel above is live-rendered — no workflows, no cron jobs, no committed assets</sub>
+</div>
+
+<br/>
+
+## `whoami`
 
 ```ts
 const manan: Developer = {
@@ -38,118 +79,116 @@ const manan: Developer = {
 };
 ```
 
-- Diploma in Computer Science at **Thapar Institute**, queued for **B.Tech CS** on the same campus.
-- Prepping for **Smart India Hackathon 2026** — shipping small systems under real constraints.
-- Long game: an **AI ecosystem** of my own, including a personal AI assistant that actually ships.
-
-<br>
-
-<!-- ========== 3. PROFILE SCAN ========== -->
 <div align="center">
-
-```text
-┌─ PROFILE SCAN ──────────────────────────────────────────────┐
-│  Handle         BiasManan2010                               │
-│  Role           Full-Stack Developer | AI Engineer (train)  │
-│  Status         ACTIVE · Diploma-v1 → B.Tech                │
-│  Languages      (top-langs card)                            │
-│  Repos          (stats card)                                │
-│  Contributions  (stats card)                                │
-│  Stars          (stats card)                                │
-│  Followers      (badge)                                     │
-│  Active Days    (streak card)                               │
-└─────────────────────────────────────────────────────────────┘
-```
 
 <table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark&count_private=true"
-        alt="GitHub stats"
-        width="100%"
-      />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasManan2010&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark"
-        alt="Top languages"
-        width="100%"
-      />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+
+🟣 **Full-Stack**
+<br/>
+<sub>Frontend + Backend</sub>
+
+</td>
+<td align="center" width="25%">
+
+🔵 **AI Engineer**
+<br/>
+<sub>in training</sub>
+
+</td>
+<td align="center" width="25%">
+
+🟢 **Builder**
+<br/>
+<sub>ships fast</sub>
+
+</td>
+<td align="center" width="25%">
+
+🔴 **Student**
+<br/>
+<sub>always learning</sub>
+
+</td>
+</tr>
 </table>
 
-<br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=BiasManan2010&label=profile+views&color=0e7a4d&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/BiasManan2010?style=for-the-badge&logo=github&logoColor=00FF9F&label=Followers&color=161b22" alt="GitHub followers" />
+## 🛠️ Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase" />
+
+**AI / ML — currently learning**
+<br/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+## 📊 3D Contribution Graph
+
+<!--
+  TRADEOFF: no live-render API exists for this chart.
+  .github/workflows/profile-3d-contrib.yml generates SVGs daily and
+  publishes them to the profile-3d-contrib branch at repo root.
+  Light source uses profile-season-animate.svg (the Action does not emit profile-day-green.svg).
+-->
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+</picture>
+<br/>
+<sub># the only section above that isn't purely live — generated daily via the workflow below</sub>
+</div>
+
+## 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasManan2010&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=c9d1d9" width="42%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiasManan2010&theme=github-compact&bg_color=00000000&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="95%" />
+
+<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=github-dark-blue&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="70%" />
 
 </div>
 
-<br>
+## 🚧 Currently Building
 
-<!-- ========== 4. TECH ARSENAL ========== -->
+- ⚡ A shift-management PWA (Next.js + Firebase)
+- 🤖 An AI-powered project for hackathon prep
+- 🏆 Prepping for **Smart India Hackathon 2026**
+
+<br/>
+
 <div align="center">
 
-### Tech Arsenal
+![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
 
-**Core Stack**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiasManan2010)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-bharti)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbhartilks@gmail.com)
 
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" />
-<img src="https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-
-<br><br>
-
-**Currently Learning**
-
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-learning-161b22?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-learning-161b22?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
-<img src="https://img.shields.io/badge/TensorFlow-learning-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-learning-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-
-</div>
-
-<br>
-
-<!-- ========== 5. CURRENTLY BUILDING ========== -->
-
-### Currently Building
-
-- Shift-management **PWA** — scheduling that works on a phone, offline-friendly.
-- A **hackathon-prep AI** project — small models, real prompts, tight demos.
-- **Smart India Hackathon 2026** prep — problem statements, teams, and shipping under a clock.
-
-<br>
-
-<!-- ========== 6. FOOTER ========== -->
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=BiasManan2010&theme=dark&hide_border=true&background=00000000"
-  alt="GitHub streak"
-  width="100%"
-/>
-
-<br><br>
-
-<a href="https://github.com/BiasManan2010"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=00FF9F" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/manan-bharti"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
-<a href="mailto:mananbhartilks@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=00FF9F" alt="Email" /></a>
-
-<br><br>
-
-```txt
-# thanks for stopping by
-```
+<sub># thanks for stopping by</sub>
 
 </div>

@@ -11,7 +11,7 @@
 <div align="center">
 
 ```
-GITHUB_USERNAME@github ~ $ ./profile-scan --live
+BiasManan2010@github ~ $ ./profile-scan --live
 ```
 
 </div>
@@ -46,14 +46,14 @@ GITHUB_USERNAME@github ~ $ ./profile-scan --live
 | Field | Value |
 |---|---|
 | Subject | Manan Bharti |
-| Handle | [`@GITHUB_USERNAME`](https://github.com/GITHUB_USERNAME) |
+| Handle | [`@BiasManan2010`](https://github.com/BiasManan2010) |
 | Role | Full-Stack Developer \| AI Engineer (in training) |
 | Status | 🟢 Building • Learning • Shipping |
-| Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/GITHUB_USERNAME&label=&query=public_repos&color=39FF14&style=flat-square) |
-| Contributions | ![Streak](https://streak-stats.demolab.com/?user=GITHUB_USERNAME&theme=dark&hide_border=true&background=00000000) |
-| Followers | ![Followers](https://img.shields.io/github/followers/GITHUB_USERNAME?label=&color=39FF14&style=flat-square) |
-| Stars | ![Stars](https://img.shields.io/github/stars/GITHUB_USERNAME/GITHUB_USERNAME?label=&color=39FF14&style=flat-square) |
-| Contact | `EMAIL` |
+| Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/BiasManan2010&label=&query=public_repos&color=39FF14&style=flat-square) |
+| Contributions | ![Streak](https://streak-stats.demolab.com/?user=BiasManan2010&theme=dark&hide_border=true&background=00000000) |
+| Followers | ![Followers](https://img.shields.io/github/followers/BiasManan2010?label=&color=39FF14&style=flat-square) |
+| Stars | ![Stars](https://img.shields.io/github/stars/BiasManan2010/BiasManan2010?label=&color=39FF14&style=flat-square) |
+| Contact | `mananbhartilks@gmail.com` |
 
 </td>
 </tr>
@@ -152,9 +152,9 @@ const manan: Developer = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/profile-3d-contrib/profile-season-animate.svg" />
-  <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
 </picture>
 <br/>
 <sub># the only section above that isn't purely live — generated daily via the workflow below</sub>
@@ -164,12 +164,12 @@ const manan: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=c9d1d9" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasManan2010&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=c9d1d9" width="42%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=github-compact&bg_color=00000000&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiasManan2010&theme=github-compact&bg_color=00000000&color=39FF14&line=39FF14&point=ffffff&hide_border=true" width="95%" />
 
-<img src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="70%" />
+<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=github-dark-blue&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="70%" />
 
 </div>
 
@@ -183,11 +183,11 @@ const manan: Developer = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=GITHUB_USERNAME&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiasManan2010)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-bharti)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbhartilks@gmail.com)
 
 <sub># thanks for stopping by</sub>
 

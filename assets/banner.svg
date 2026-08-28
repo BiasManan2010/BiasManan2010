@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 280" width="1100" height="280" role="img" aria-label="MB — Manan Bharti">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05080F"/>
+      <stop offset="45%" stop-color="#0B1D36"/>
+      <stop offset="100%" stop-color="#061018"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00FF9F" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00FF9F" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00FF9F" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1100" height="280" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1100" height="280" fill="url(#bg)"/>
+    <rect width="1100" height="280" fill="url(#scan)"/>
+
+    <text fill="#00FF9F" opacity="0.15" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="22.0" dy="0">1</tspan><tspan x="22.0" dy="14">I</tspan><tspan x="22.0" dy="14">|</tspan><tspan x="22.0" dy="14">0</tspan><tspan x="22.0" dy="14">=</tspan><tspan x="22.0" dy="14">L</tspan><tspan x="22.0" dy="14">0</tspan><tspan x="22.0" dy="14">1</tspan><tspan x="22.0" dy="14">+</tspan><tspan x="22.0" dy="14">+</tspan>
+      <animate attributeName="y" values="-83;310;-83" dur="8.1s" begin="-2.6s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.13" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="59.7" dy="0">1</tspan><tspan x="59.7" dy="14">L</tspan><tspan x="59.7" dy="14">#</tspan><tspan x="59.7" dy="14">#</tspan><tspan x="59.7" dy="14">|</tspan><tspan x="59.7" dy="14">0</tspan><tspan x="59.7" dy="14">|</tspan><tspan x="59.7" dy="14">|</tspan><tspan x="59.7" dy="14">+</tspan><tspan x="59.7" dy="14">0</tspan><tspan x="59.7" dy="14">L</tspan><tspan x="59.7" dy="14">0</tspan><tspan x="59.7" dy="14">=</tspan><tspan x="59.7" dy="14">M</tspan><tspan x="59.7" dy="14">A</tspan><tspan x="59.7" dy="14">+</tspan>
+      <animate attributeName="y" values="-76;310;-76" dur="7.6s" begin="-0.6s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.11" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="97.4" dy="0">M</tspan><tspan x="97.4" dy="14">1</tspan><tspan x="97.4" dy="14">|</tspan><tspan x="97.4" dy="14">|</tspan><tspan x="97.4" dy="14">#</tspan><tspan x="97.4" dy="14">L</tspan><tspan x="97.4" dy="14">I</tspan><tspan x="97.4" dy="14">1</tspan><tspan x="97.4" dy="14">=</tspan><tspan x="97.4" dy="14">*</tspan><tspan x="97.4" dy="14">1</tspan><tspan x="97.4" dy="14">|</tspan><tspan x="97.4" dy="14">0</tspan><tspan x="97.4" dy="14">|</tspan><tspan x="97.4" dy="14">L</tspan><tspan x="97.4" dy="14">-</tspan>
+      <animate attributeName="y" values="-46;310;-46" dur="7.8s" begin="-1.2s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.11" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="135.1" dy="0">I</tspan><tspan x="135.1" dy="14">A</tspan><tspan x="135.1" dy="14">L</tspan><tspan x="135.1" dy="14">$</tspan><tspan x="135.1" dy="14">M</tspan><tspan x="135.1" dy="14">*</tspan><tspan x="135.1" dy="14">$</tspan><tspan x="135.1" dy="14">L</tspan><tspan x="135.1" dy="14">1</tspan><tspan x="135.1" dy="14">|</tspan><tspan x="135.1" dy="14">A</tspan><tspan x="135.1" dy="14">=</tspan><tspan x="135.1" dy="14">-</tspan><tspan x="135.1" dy="14">I</tspan>
+      <animate attributeName="y" values="-104;310;-104" dur="10.0s" begin="-5.4s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.20" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="172.9" dy="0">+</tspan><tspan x="172.9" dy="14">M</tspan><tspan x="172.9" dy="14">$</tspan><tspan x="172.9" dy="14">I</tspan><tspan x="172.9" dy="14">M</tspan><tspan x="172.9" dy="14">-</tspan><tspan x="172.9" dy="14">+</tspan><tspan x="172.9" dy="14">0</tspan><tspan x="172.9" dy="14">#</tspan><tspan x="172.9" dy="14">1</tspan>
+      <animate attributeName="y" values="-89;310;-89" dur="9.0s" begin="-5.8s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.18" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="210.6" dy="0">*</tspan><tspan x="210.6" dy="14">I</tspan><tspan x="210.6" dy="14">|</tspan><tspan x="210.6" dy="14">-</tspan><tspan x="210.6" dy="14">|</tspan><tspan x="210.6" dy="14">$</tspan><tspan x="210.6" dy="14">-</tspan><tspan x="210.6" dy="14">1</tspan><tspan x="210.6" dy="14">1</tspan><tspan x="210.6" dy="14">A</tspan><tspan x="210.6" dy="14">-</tspan><tspan x="210.6" dy="14">*</tspan>
+      <animate attributeName="y" values="-133;310;-133" dur="11.0s" begin="-6.1s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.16" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="248.3" dy="0">#</tspan><tspan x="248.3" dy="14">-</tspan><tspan x="248.3" dy="14">A</tspan><tspan x="248.3" dy="14">*</tspan><tspan x="248.3" dy="14">+</tspan><tspan x="248.3" dy="14">#</tspan><tspan x="248.3" dy="14">I</tspan><tspan x="248.3" dy="14">0</tspan><tspan x="248.3" dy="14">-</tspan><tspan x="248.3" dy="14">I</tspan><tspan x="248.3" dy="14">M</tspan><tspan x="248.3" dy="14">|</tspan><tspan x="248.3" dy="14">1</tspan><tspan x="248.3" dy="14">-</tspan><tspan x="248.3" dy="14">0</tspan>
+      <animate attributeName="y" values="-73;310;-73" dur="7.4s" begin="-5.3s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.17" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="286.0" dy="0">-</tspan><tspan x="286.0" dy="14">1</tspan><tspan x="286.0" dy="14">M</tspan><tspan x="286.0" dy="14">-</tspan><tspan x="286.0" dy="14">+</tspan><tspan x="286.0" dy="14">=</tspan><tspan x="286.0" dy="14">A</tspan><tspan x="286.0" dy="14">M</tspan><tspan x="286.0" dy="14">+</tspan><tspan x="286.0" dy="14">=</tspan><tspan x="286.0" dy="14">A</tspan><tspan x="286.0" dy="14">*</tspan><tspan x="286.0" dy="14">+</tspan>
+      <animate attributeName="y" values="-120;310;-120" dur="9.0s" begin="-1.7s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.12" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="323.7" dy="0">1</tspan><tspan x="323.7" dy="14">M</tspan><tspan x="323.7" dy="14">M</tspan><tspan x="323.7" dy="14">L</tspan><tspan x="323.7" dy="14">#</tspan><tspan x="323.7" dy="14">L</tspan><tspan x="323.7" dy="14">0</tspan><tspan x="323.7" dy="14">-</tspan><tspan x="323.7" dy="14">|</tspan><tspan x="323.7" dy="14">M</tspan><tspan x="323.7" dy="14">A</tspan>
+      <animate attributeName="y" values="-182;310;-182" dur="11.8s" begin="-7.9s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.14" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="361.4" dy="0">I</tspan><tspan x="361.4" dy="14">M</tspan><tspan x="361.4" dy="14">*</tspan><tspan x="361.4" dy="14">=</tspan><tspan x="361.4" dy="14">|</tspan><tspan x="361.4" dy="14">#</tspan><tspan x="361.4" dy="14">#</tspan><tspan x="361.4" dy="14">*</tspan><tspan x="361.4" dy="14">0</tspan><tspan x="361.4" dy="14">-</tspan><tspan x="361.4" dy="14">$</tspan><tspan x="361.4" dy="14">#</tspan><tspan x="361.4" dy="14">$</tspan><tspan x="361.4" dy="14">=</tspan>
+      <animate attributeName="y" values="-76;310;-76" dur="8.0s" begin="-2.3s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.08" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="399.1" dy="0">0</tspan><tspan x="399.1" dy="14">L</tspan><tspan x="399.1" dy="14">1</tspan><tspan x="399.1" dy="14">L</tspan><tspan x="399.1" dy="14">-</tspan><tspan x="399.1" dy="14">M</tspan><tspan x="399.1" dy="14">1</tspan><tspan x="399.1" dy="14">I</tspan><tspan x="399.1" dy="14">|</tspan><tspan x="399.1" dy="14">0</tspan><tspan x="399.1" dy="14">1</tspan><tspan x="399.1" dy="14">0</tspan><tspan x="399.1" dy="14">|</tspan><tspan x="399.1" dy="14">M</tspan><tspan x="399.1" dy="14">=</tspan>
+      <animate attributeName="y" values="-118;310;-118" dur="9.8s" begin="-3.1s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.07" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="436.9" dy="0">|</tspan><tspan x="436.9" dy="14">+</tspan><tspan x="436.9" dy="14">M</tspan><tspan x="436.9" dy="14">#</tspan><tspan x="436.9" dy="14">A</tspan><tspan x="436.9" dy="14">I</tspan><tspan x="436.9" dy="14">|</tspan><tspan x="436.9" dy="14">I</tspan><tspan x="436.9" dy="14">-</tspan><tspan x="436.9" dy="14">1</tspan><tspan x="436.9" dy="14">1</tspan><tspan x="436.9" dy="14">-</tspan><tspan x="436.9" dy="14">-</tspan><tspan x="436.9" dy="14">-</tspan><tspan x="436.9" dy="14">-</tspan><tspan x="436.9" dy="14">A</tspan>
+      <animate attributeName="y" values="-167;310;-167" dur="9.5s" begin="-0.8s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.11" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="474.6" dy="0">*</tspan><tspan x="474.6" dy="14">M</tspan><tspan x="474.6" dy="14">=</tspan><tspan x="474.6" dy="14">0</tspan><tspan x="474.6" dy="14">L</tspan><tspan x="474.6" dy="14">=</tspan><tspan x="474.6" dy="14">I</tspan><tspan x="474.6" dy="14">M</tspan><tspan x="474.6" dy="14">*</tspan><tspan x="474.6" dy="14">=</tspan><tspan x="474.6" dy="14">0</tspan><tspan x="474.6" dy="14">$</tspan>
+      <animate attributeName="y" values="-98;310;-98" dur="7.7s" begin="-0.7s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.18" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="512.3" dy="0">=</tspan><tspan x="512.3" dy="14">I</tspan><tspan x="512.3" dy="14">M</tspan><tspan x="512.3" dy="14">I</tspan><tspan x="512.3" dy="14">$</tspan><tspan x="512.3" dy="14">L</tspan><tspan x="512.3" dy="14">=</tspan><tspan x="512.3" dy="14">=</tspan><tspan x="512.3" dy="14">$</tspan><tspan x="512.3" dy="14">=</tspan><tspan x="512.3" dy="14">I</tspan><tspan x="512.3" dy="14">#</tspan><tspan x="512.3" dy="14">L</tspan><tspan x="512.3" dy="14">|</tspan><tspan x="512.3" dy="14">$</tspan>
+      <animate attributeName="y" values="-154;310;-154" dur="13.8s" begin="-4.2s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.10" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="550.0" dy="0">*</tspan><tspan x="550.0" dy="14">$</tspan><tspan x="550.0" dy="14">L</tspan><tspan x="550.0" dy="14">L</tspan><tspan x="550.0" dy="14">=</tspan><tspan x="550.0" dy="14">-</tspan><tspan x="550.0" dy="14">I</tspan><tspan x="550.0" dy="14">*</tspan><tspan x="550.0" dy="14">0</tspan><tspan x="550.0" dy="14">0</tspan><tspan x="550.0" dy="14">$</tspan>
+      <animate attributeName="y" values="-118;310;-118" dur="12.3s" begin="-6.3s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.16" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="587.7" dy="0">$</tspan><tspan x="587.7" dy="14">*</tspan><tspan x="587.7" dy="14">I</tspan><tspan x="587.7" dy="14">I</tspan><tspan x="587.7" dy="14">1</tspan><tspan x="587.7" dy="14">L</tspan><tspan x="587.7" dy="14">1</tspan><tspan x="587.7" dy="14">L</tspan><tspan x="587.7" dy="14">-</tspan><tspan x="587.7" dy="14">L</tspan><tspan x="587.7" dy="14">I</tspan><tspan x="587.7" dy="14">L</tspan>
+      <animate attributeName="y" values="-106;310;-106" dur="8.8s" begin="-2.2s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.15" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="625.4" dy="0">#</tspan><tspan x="625.4" dy="14">I</tspan><tspan x="625.4" dy="14">$</tspan><tspan x="625.4" dy="14">#</tspan><tspan x="625.4" dy="14">1</tspan><tspan x="625.4" dy="14">#</tspan><tspan x="625.4" dy="14">1</tspan><tspan x="625.4" dy="14">+</tspan><tspan x="625.4" dy="14">$</tspan><tspan x="625.4" dy="14">*</tspan>
+      <animate attributeName="y" values="-98;310;-98" dur="13.9s" begin="-3.9s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.09" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="663.1" dy="0">I</tspan><tspan x="663.1" dy="14">1</tspan><tspan x="663.1" dy="14">$</tspan><tspan x="663.1" dy="14">*</tspan><tspan x="663.1" dy="14">+</tspan><tspan x="663.1" dy="14">-</tspan><tspan x="663.1" dy="14">+</tspan><tspan x="663.1" dy="14">*</tspan><tspan x="663.1" dy="14">1</tspan><tspan x="663.1" dy="14">*</tspan><tspan x="663.1" dy="14">M</tspan><tspan x="663.1" dy="14">M</tspan><tspan x="663.1" dy="14">M</tspan><tspan x="663.1" dy="14">0</tspan><tspan x="663.1" dy="14">M</tspan><tspan x="663.1" dy="14">|</tspan>
+      <animate attributeName="y" values="-58;310;-58" dur="10.3s" begin="-6.0s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.09" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="700.9" dy="0">-</tspan><tspan x="700.9" dy="14">#</tspan><tspan x="700.9" dy="14">I</tspan><tspan x="700.9" dy="14">M</tspan><tspan x="700.9" dy="14">=</tspan><tspan x="700.9" dy="14">=</tspan><tspan x="700.9" dy="14">M</tspan><tspan x="700.9" dy="14">0</tspan><tspan x="700.9" dy="14">0</tspan><tspan x="700.9" dy="14">$</tspan><tspan x="700.9" dy="14">*</tspan><tspan x="700.9" dy="14">#</tspan><tspan x="700.9" dy="14">1</tspan><tspan x="700.9" dy="14">=</tspan><tspan x="700.9" dy="14">*</tspan><tspan x="700.9" dy="14">M</tspan>
+      <animate attributeName="y" values="-68;310;-68" dur="12.6s" begin="-7.2s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.18" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="738.6" dy="0">A</tspan><tspan x="738.6" dy="14">L</tspan><tspan x="738.6" dy="14">A</tspan><tspan x="738.6" dy="14">=</tspan><tspan x="738.6" dy="14">L</tspan><tspan x="738.6" dy="14">$</tspan><tspan x="738.6" dy="14">|</tspan><tspan x="738.6" dy="14">I</tspan><tspan x="738.6" dy="14">A</tspan><tspan x="738.6" dy="14">=</tspan><tspan x="738.6" dy="14">+</tspan>
+      <animate attributeName="y" values="-213;310;-213" dur="13.1s" begin="-3.5s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.17" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="776.3" dy="0">|</tspan><tspan x="776.3" dy="14">=</tspan><tspan x="776.3" dy="14">+</tspan><tspan x="776.3" dy="14">=</tspan><tspan x="776.3" dy="14">M</tspan><tspan x="776.3" dy="14">=</tspan><tspan x="776.3" dy="14">M</tspan><tspan x="776.3" dy="14">=</tspan><tspan x="776.3" dy="14">=</tspan><tspan x="776.3" dy="14">0</tspan><tspan x="776.3" dy="14">-</tspan><tspan x="776.3" dy="14">$</tspan><tspan x="776.3" dy="14">M</tspan>
+      <animate attributeName="y" values="-51;310;-51" dur="7.4s" begin="-6.7s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.09" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="814.0" dy="0">|</tspan><tspan x="814.0" dy="14">*</tspan><tspan x="814.0" dy="14">1</tspan><tspan x="814.0" dy="14">=</tspan><tspan x="814.0" dy="14">0</tspan><tspan x="814.0" dy="14">I</tspan><tspan x="814.0" dy="14">#</tspan><tspan x="814.0" dy="14">=</tspan><tspan x="814.0" dy="14">=</tspan><tspan x="814.0" dy="14">=</tspan><tspan x="814.0" dy="14">-</tspan>
+      <animate attributeName="y" values="-99;310;-99" dur="12.4s" begin="-4.9s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.14" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="851.7" dy="0">A</tspan><tspan x="851.7" dy="14">0</tspan><tspan x="851.7" dy="14">$</tspan><tspan x="851.7" dy="14">1</tspan><tspan x="851.7" dy="14">=</tspan><tspan x="851.7" dy="14">-</tspan><tspan x="851.7" dy="14">=</tspan><tspan x="851.7" dy="14">0</tspan><tspan x="851.7" dy="14">$</tspan><tspan x="851.7" dy="14">1</tspan><tspan x="851.7" dy="14">-</tspan>
+      <animate attributeName="y" values="-172;310;-172" dur="7.7s" begin="-6.3s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.15" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="889.4" dy="0">A</tspan><tspan x="889.4" dy="14">-</tspan><tspan x="889.4" dy="14">=</tspan><tspan x="889.4" dy="14">=</tspan><tspan x="889.4" dy="14">$</tspan><tspan x="889.4" dy="14">-</tspan><tspan x="889.4" dy="14">=</tspan><tspan x="889.4" dy="14">L</tspan><tspan x="889.4" dy="14">*</tspan><tspan x="889.4" dy="14">=</tspan><tspan x="889.4" dy="14">A</tspan>
+      <animate attributeName="y" values="-43;310;-43" dur="13.8s" begin="-2.6s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.10" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="927.1" dy="0">+</tspan><tspan x="927.1" dy="14">1</tspan><tspan x="927.1" dy="14">+</tspan><tspan x="927.1" dy="14">-</tspan><tspan x="927.1" dy="14">I</tspan><tspan x="927.1" dy="14">1</tspan><tspan x="927.1" dy="14">#</tspan><tspan x="927.1" dy="14">L</tspan><tspan x="927.1" dy="14">+</tspan><tspan x="927.1" dy="14">1</tspan><tspan x="927.1" dy="14">L</tspan><tspan x="927.1" dy="14">#</tspan><tspan x="927.1" dy="14">A</tspan>
+      <animate attributeName="y" values="-185;310;-185" dur="13.2s" begin="-7.4s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.09" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="964.9" dy="0">#</tspan><tspan x="964.9" dy="14">I</tspan><tspan x="964.9" dy="14">M</tspan><tspan x="964.9" dy="14">A</tspan><tspan x="964.9" dy="14">M</tspan><tspan x="964.9" dy="14">-</tspan><tspan x="964.9" dy="14">L</tspan><tspan x="964.9" dy="14">*</tspan><tspan x="964.9" dy="14">1</tspan><tspan x="964.9" dy="14">+</tspan><tspan x="964.9" dy="14">-</tspan><tspan x="964.9" dy="14">M</tspan><tspan x="964.9" dy="14">#</tspan><tspan x="964.9" dy="14">L</tspan><tspan x="964.9" dy="14">M</tspan>
+      <animate attributeName="y" values="-56;310;-56" dur="13.3s" begin="-6.3s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.12" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="1002.6" dy="0">I</tspan><tspan x="1002.6" dy="14">I</tspan><tspan x="1002.6" dy="14">1</tspan><tspan x="1002.6" dy="14">*</tspan><tspan x="1002.6" dy="14">I</tspan><tspan x="1002.6" dy="14">0</tspan><tspan x="1002.6" dy="14">I</tspan><tspan x="1002.6" dy="14">=</tspan><tspan x="1002.6" dy="14">-</tspan><tspan x="1002.6" dy="14">-</tspan><tspan x="1002.6" dy="14">*</tspan><tspan x="1002.6" dy="14">0</tspan><tspan x="1002.6" dy="14">+</tspan>
+      <animate attributeName="y" values="-170;310;-170" dur="14.0s" begin="-5.7s" repeatCount="indefinite"/>
+    </text>
+    <text fill="#00FF9F" opacity="0.14" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11">
+      <tspan x="1040.3" dy="0">$</tspan><tspan x="1040.3" dy="14">L</tspan><tspan x="1040.3" dy="14">1</tspan><tspan x="1040.3" dy="14">1</tspan><tspan x="1040.3" dy="14">A</tspan><tspan x="1040.3" dy="14">A</tspan><tspan x="1040.3" dy="14">0</tspan><tspan x="1040.3" dy="14">$</tspan><tspan x="1040.3" dy="14">M</tspan><tspan x="1040.3" dy="14">A</tspan>
+      <animate attributeName="y" values="-192;310;-192" dur="11.4s" begin="-2.7s" repeatCount="indefinite"/>
+    </text>
+    <rect x="330" y="48" width="440" height="168" rx="12" fill="#070B14" fill-opacity="0.72"/>
+    <text x="550" y="132" text-anchor="middle" fill="#00FF9F" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="76" font-weight="700" letter-spacing="18" filter="url(#glow)">MB</text>
+    <text x="550" y="168" text-anchor="middle" fill="#C9D1D9" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="15" letter-spacing="10">MANAN BHARTI</text>
+    <text x="550" y="192" text-anchor="middle" fill="#00FF9F" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" letter-spacing="3.5">ASPIRING AI ENGINEER  ·  THAPAR INSTITUTE</text>
+    <rect x="1.5" y="1.5" width="1097" height="277" rx="15" fill="none" stroke="#00FF9F" stroke-opacity="0.32" stroke-width="1.25"/>
+  </g>
+</svg>

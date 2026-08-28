@@ -1,34 +1,43 @@
-# Generates the 3D contribution graph into profile-3d-contrib/
-# Run once from Actions → GitHub-Profile-3D-Contrib → Run workflow
+# TRADEOFF: the 3D contribution graph has no live-render API.
+# This is the only workflow in the profile repo. It generates SVGs
+# with yoshi389111/github-profile-3d-contrib and force-pushes them
+# to the `profile-3d-contrib` branch (not main).
 name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "30 18 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths-ignore:
-      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: generate-and-publish-3d-contrib
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout default branch
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Publish SVGs to profile-3d-contrib branch
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add profile-3d-contrib || true
-          if git commit -m "chore: refresh 3d contribution graph"; then
-            git push
-          fi
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p /tmp/profile-3d-out
+          cp -R profile-3d-contrib/. /tmp/profile-3d-out/
+          git fetch origin profile-3d-contrib:profile-3d-contrib || true
+          git checkout --orphan profile-3d-tmp
+          git rm -rf --ignore-unmatch . >/dev/null 2>&1 || true
+          mkdir -p profile-3d-contrib
+          cp -R /tmp/profile-3d-out/. profile-3d-contrib/
+          git add profile-3d-contrib
+          git commit -m "chore: refresh 3d contribution graph"
+          git push -f origin HEAD:profile-3d-contrib

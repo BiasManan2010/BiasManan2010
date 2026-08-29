@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=MANAN%20BHARTI&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%2016&descAlignY=70&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Manan%20Bharti&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%2F%20ML%20Engineer&descAlignY=68&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=A78BFA&center=true&vCenter=true&width=680&lines=16+years+old.+Already+shipping+production+code.;Full-stack+by+trade%2C+AI+engineer+by+obsession.;Not+here+to+learn+the+basics+%E2%80%94+here+to+build+the+future.;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP+%C2%B7+LLMs." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production-ready+software+and+AI+systems;Full-stack+development+%C2%B7+Machine+Learning+%C2%B7+LLMs;Currently+shipping+%E2%80%94+always+learning" alt="Typing SVG" />
 
 <br/>
 
@@ -15,37 +15,26 @@
 
 <br/>
 
-## ⚡ Who I Am
+## Profile Overview
 
-**Manan Bharti** — a 16-year-old full-stack developer and AI/ML engineer who builds like it's a job, not a hobby. Not a "learning to code" profile. A **shipping** profile. Web apps, AI systems, cross-platform apps, hackathon builds — designed, coded, and deployed end to end.
+<table>
+<tr>
+<td width="100%" valign="top">
 
 ```ts
 const manan: Developer = {
   age: 16,
   role: "Full-Stack Developer | AI / ML Engineer",
-  status: "Building a personal AI ecosystem, one system at a time",
-  stack: [
-    "JavaScript", "TypeScript", "Python", "C", "C++",
-    "Java", "Dart", "Kotlin", "Bash"
-  ],
-  frameworks: [
-    "React", "Node.js", "Express", "Tkinter", "Flutter"
-  ],
-  ai_ml: [
-    "NumPy", "Pandas", "PyTorch", "OpenCV",
-    "Machine Learning", "Deep Learning", "NLP", "LLMs"
-  ],
-  databases: [
-    "MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"
-  ],
-  infra: [
-    "Docker", "Linux", "Windows CLI", "Git",
-    "Netlify", "Vercel"
-  ],
-  approach: "vibe-coder — fast, intuitive, production-focused",
-  mantra: "Ship deliberately. Learn relentlessly. Never plateau.",
+  focus: ["Machine Learning", "Deep Learning", "NLP", "LLMs", "AI Systems"],
+  stack: ["JavaScript", "TypeScript", "Python", "C", "C++", "Java", "Dart", "Kotlin"],
+  building: "a personal AI ecosystem, one system at a time",
+  principle: "Ship deliberately. Learn continuously.",
 };
 ```
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -81,9 +70,9 @@ const manan: Developer = {
 </td>
 <td align="center" width="20%">
 
-**16 y/o**
+**16**
 <br/>
-<sub>already shipping</sub>
+<sub>years old</sub>
 
 </td>
 </tr>
@@ -93,19 +82,11 @@ const manan: Developer = {
 
 <br/>
 
-## 💬 Quote of the Visit
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-## 🧠 Skill Depth
+## Skill Set
 
 <div align="center">
 
-<svg width="660" height="300" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+<svg width="640" height="260" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
   <defs>
     <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#6366F1"/>
@@ -125,58 +106,54 @@ const manan: Developer = {
     </linearGradient>
   </defs>
   <style>
-    .lbl { fill: #a1a1c9; font-size: 12px; }
+    .lbl { fill: #9d9dc2; font-size: 12px; }
     .track { fill: #1e1b2e; rx: 5; }
     .bar { rx: 5; }
-    .key { fill: #7c7ca3; font-size: 11px; }
+    .key { fill: #6f6f96; font-size: 11px; }
   </style>
 
   <text x="0" y="14" class="lbl">JavaScript / TypeScript / React / Node.js</text>
-  <rect x="0" y="20" width="620" height="9" class="track"/>
-  <rect x="0" y="20" width="560" height="9" class="bar" fill="url(#g1)"/>
+  <rect x="0" y="20" width="600" height="8" class="track"/>
+  <rect x="0" y="20" width="540" height="8" class="bar" fill="url(#g1)"/>
 
-  <text x="0" y="47" class="lbl">Python / Tkinter</text>
-  <rect x="0" y="53" width="620" height="9" class="track"/>
-  <rect x="0" y="53" width="500" height="9" class="bar" fill="url(#g1)"/>
+  <text x="0" y="45" class="lbl">Python / Tkinter</text>
+  <rect x="0" y="51" width="600" height="8" class="track"/>
+  <rect x="0" y="51" width="480" height="8" class="bar" fill="url(#g1)"/>
 
-  <text x="0" y="80" class="lbl">C / C++</text>
-  <rect x="0" y="86" width="620" height="9" class="track"/>
-  <rect x="0" y="86" width="330" height="9" class="bar" fill="url(#g2)"/>
+  <text x="0" y="76" class="lbl">C / C++ / Java / Flutter / Dart / Kotlin</text>
+  <rect x="0" y="82" width="600" height="8" class="track"/>
+  <rect x="0" y="82" width="320" height="8" class="bar" fill="url(#g2)"/>
 
-  <text x="0" y="113" class="lbl">Flutter / Dart / Kotlin</text>
-  <rect x="0" y="119" width="620" height="9" class="track"/>
-  <rect x="0" y="119" width="300" height="9" class="bar" fill="url(#g2)"/>
+  <text x="0" y="107" class="lbl">NumPy / Pandas / OpenCV</text>
+  <rect x="0" y="113" width="600" height="8" class="track"/>
+  <rect x="0" y="113" width="280" height="8" class="bar" fill="url(#g3)"/>
 
-  <text x="0" y="146" class="lbl">NumPy / Pandas / OpenCV</text>
-  <rect x="0" y="152" width="620" height="9" class="track"/>
-  <rect x="0" y="152" width="290" height="9" class="bar" fill="url(#g3)"/>
+  <text x="0" y="138" class="lbl">Machine Learning / Deep Learning / PyTorch / NLP / LLMs</text>
+  <rect x="0" y="144" width="600" height="8" class="track"/>
+  <rect x="0" y="144" width="240" height="8" class="bar" fill="url(#g3)"/>
 
-  <text x="0" y="179" class="lbl">Machine Learning / Deep Learning / PyTorch</text>
-  <rect x="0" y="185" width="620" height="9" class="track"/>
-  <rect x="0" y="185" width="250" height="9" class="bar" fill="url(#g3)"/>
+  <text x="0" y="169" class="lbl">Databases — MongoDB / MySQL / PostgreSQL</text>
+  <rect x="0" y="175" width="600" height="8" class="track"/>
+  <rect x="0" y="175" width="260" height="8" class="bar" fill="url(#g4)"/>
 
-  <text x="0" y="212" class="lbl">NLP / LLMs</text>
-  <rect x="0" y="218" width="620" height="9" class="track"/>
-  <rect x="0" y="218" width="220" height="9" class="bar" fill="url(#g3)"/>
+  <text x="0" y="200" class="lbl">Docker / Linux / CLI / Cloud — Supabase, Firebase, Vercel, Netlify</text>
+  <rect x="0" y="206" width="600" height="8" class="track"/>
+  <rect x="0" y="206" width="300" height="8" class="bar" fill="url(#g4)"/>
 
-  <text x="0" y="245" class="lbl">Docker / Linux / CLI / Cloud (Supabase, Firebase, Vercel, Netlify)</text>
-  <rect x="0" y="251" width="620" height="9" class="track"/>
-  <rect x="0" y="251" width="310" height="9" class="bar" fill="url(#g4)"/>
-
-  <text x="0" y="282" class="key">■ Core Stack &#160;&#160;&#160; ■ Applied &#160;&#160;&#160; ■ AI / ML &#160;&#160;&#160; ■ Infra</text>
+  <text x="0" y="236" class="key">■ Core Stack &#160;&#160;&#160; ■ Cross-Platform &#160;&#160;&#160; ■ AI / ML &#160;&#160;&#160; ■ Data / Infra</text>
 </svg>
 
 </div>
 
 <br/>
 
-## 🛠️ Full Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart,kotlin" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,dart,kotlin,bash" />
 <br/><br/>
 
 **Frontend**
@@ -186,67 +163,57 @@ const manan: Developer = {
 
 **Backend & Cross-Platform**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,flutter" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flutter" />
 <br/><br/>
 
-**AI / ML / Data**
+**Databases**
 <br/>
-![NumPy](https://img.shields.io/badge/NumPy-6366F1?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-A78BFA?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-D946EF?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-EC4899?style=for-the-badge&logo=opencv&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-6366F1?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 <br/><br/>
 
 **Infrastructure & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github" />
 <br/>
-![Supabase](https://img.shields.io/badge/Supabase-06B6D4?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-06B6D4?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-06B6D4?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 <br/><br/>
 
-**Tools & Workflow**
+**AI / ML**
+<br/>
+![NumPy](https://img.shields.io/badge/NumPy-6366F1?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-A78BFA?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-D946EF?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-EC4899?style=flat-square&logo=opencv&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-6366F1?style=flat-square&logo=python&logoColor=white)
+<br/><br/>
+
+**Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,vite,npm" />
-![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-A78BFA?style=for-the-badge&logo=sparkles&logoColor=white)
-<br/><br/>
-
-**Databases & Backend Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,express" />
-<br/><br/>
-
-**Additional Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,bash,markdown,regex" />
 
 </div>
 
 <br/>
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
 
-</div>
+<br/>
 
-<div align="center">
-
-![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-A78BFA?style=for-the-badge&logo=india&logoColor=white)
-![Age](https://img.shields.io/badge/Age-16-EC4899?style=for-the-badge&logo=starship&logoColor=white)
-![Certification](https://img.shields.io/badge/CERT_NAME-1e1b2e?style=for-the-badge&logo=googlescholar&logoColor=A78BFA)
+![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-A78BFA?style=flat-square&logo=india&logoColor=white)
+![Certification](https://img.shields.io/badge/CERT_NAME-1e1b2e?style=flat-square&logo=googlescholar&logoColor=A78BFA)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -261,7 +228,7 @@ const manan: Developer = {
 
 <br/>
 
-## 🧊 3D Contribution Graph
+## Contribution Graph (3D)
 
 <div align="center">
 <picture>
@@ -275,41 +242,32 @@ const manan: Developer = {
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the contribution graph" />
-</picture>
-<br/>
-<sub>Generated via <code>.github/workflows/snake.yml</code></sub>
-</div>
-
+<details>
+<summary><b>Additional Modules</b> — coding activity, competitive programming, and extras</summary>
 <br/>
 
-## ⏱️ Coding Activity (WakaTime)
+**Weekly Coding Activity (WakaTime)**
 
 <!--START_SECTION:waka-->
 ```text
 Connect WakaTime and add the wakatime-readme-stats action
-to auto-populate this section with a live weekly hours breakdown.
+to auto-populate this section with a weekly hours breakdown.
 ```
 <!--END_SECTION:waka-->
 
 <br/>
 
-## 🧩 Competitive Programming
+**Competitive Programming**
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="60%" />
+<img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="55%" />
 </div>
 
 <sub>— replace <code>LEETCODE_USERNAME</code> to activate</sub>
 
-<br/>
+<br/><br/>
 
-## 🎵 Now Playing
+**Now Playing (Spotify)**
 
 <div align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=1e1b2e&interchange=true" alt="Spotify Now Playing" />
@@ -317,41 +275,40 @@ to auto-populate this section with a live weekly hours breakdown.
 
 <sub>— requires a free deploy of <code>novatorem/spotify-github-profile</code></sub>
 
-<br/>
+<br/><br/>
 
-## 📌 Pinned Work
+**Contribution Snake**
 
-> Repositories pin automatically from your GitHub profile settings — go to **Customize your pins** on your GitHub profile page and select up to 6 repos to feature here.
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
+</picture>
+</div>
 
-<br/>
-
-## 🚧 Currently Building
-
-- ⚡ A shift-management PWA — Next.js + Firebase
-- 🤖 An AI-powered project for hackathon prep
-- 🏆 Prepping for **Smart India Hackathon 2026**
-- 🧠 A personal AI ecosystem — local models, custom pipelines, and a personal AI assistant, built from the ground up
-
-<details>
-<summary><b>Why this profile looks different</b></summary>
-<br/>
-
-Most 16-year-olds are learning "Hello World." This one is shipping full-stack apps, training ML models, and architecting AI systems — with the long-term goal of becoming an industry-level AI Engineer capable of building production-ready AI systems from scratch.
+<sub>Generated via <code>.github/workflows/snake.yml</code></sub>
 
 </details>
 
 <br/>
 
+## Currently Building
+
+- A shift-management PWA — Next.js + Firebase
+- An AI-powered project for hackathon preparation
+- Prepping for **Smart India Hackathon 2026**
+- A personal AI ecosystem — local models and custom pipelines, built from the ground up
+
+<br/>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=A78BFA&style=flat-square&label=PROFILE+VIEWS)
 
 <sub>If something here was useful to you, a coffee helps keep the builds coming</sub>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20&reversal=true" width="100%"/>
-
-<sub># thanks for stopping by</sub>
 
 </div>

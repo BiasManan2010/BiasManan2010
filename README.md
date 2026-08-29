@@ -1,47 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=MANAN%20BHARTI&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%2016&descAlignY=70&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=MANAN%20BHARTI&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer%20%7C%2016&descAlignY=70&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=2EA043&center=true&vCenter=true&width=680&lines=16+years+old.+Already+shipping+production+code.;Full-stack+by+trade%2C+AI+engineer+by+obsession.;Not+here+to+learn+the+basics+%E2%80%94+here+to+build+the+future.;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP+%C2%B7+LLMs." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=A78BFA&center=true&vCenter=true&width=680&lines=16+years+old.+Already+shipping+production+code.;Full-stack+by+trade%2C+AI+engineer+by+obsession.;Not+here+to+learn+the+basics+%E2%80%94+here+to+build+the+future.;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP+%C2%B7+LLMs." alt="Typing SVG" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiasManan2010)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](BUYMEACOFFEE_URL)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 </div>
 
 <br/>
 
+## 🌌 Hero
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=BiasManan2010&theme=aurora" alt="hero section" />
+  </picture>
+</p>
+
+<br/>
+
 ## ⚡ Who I Am
 
-**Manan Bharti** — a 16-year-old full-stack developer and AI/ML engineer who builds like it's a job, not a hobby. Not a "learning to code" profile. A **shipping** profile. Web apps, AI systems, cross-platform apps, hackathon builds — designed, coded, and deployed end to end.
+**Manan Bharti** — a 16-year-old full-stack developer and AI/ML engineer who builds like it's a job, not a hobby. Not a "learning to code" profile — a **shipping** profile. Web apps, AI systems, cross-platform apps, hackathon builds, designed and deployed end to end.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=BiasManan2010&theme=aurora" alt="about section" />
+  </picture>
+</p>
 
 ```ts
 const manan: Developer = {
   age: 16,
   role: "Full-Stack Developer | AI / ML Engineer",
   status: "Building a personal AI ecosystem, one system at a time",
-  stack: [
-    "JavaScript", "TypeScript", "Python", "C", "C++",
-    "Java", "Dart", "Kotlin", "Bash"
-  ],
-  frameworks: [
-    "React", "Node.js", "Express", "Tkinter", "Flutter"
-  ],
-  ai_ml: [
-    "NumPy", "Pandas", "PyTorch", "OpenCV",
-    "Machine Learning", "Deep Learning", "NLP", "LLMs"
-  ],
-  databases: [
-    "MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"
-  ],
-  infra: [
-    "Docker", "Linux", "Windows CLI", "Git",
-    "Netlify", "Vercel"
-  ],
+  stack: ["JavaScript", "TypeScript", "Python", "C", "C++", "Java", "Dart", "Kotlin", "Bash"],
+  frameworks: ["React", "Node.js", "Express", "Tkinter", "Flutter"],
+  ai_ml: ["NumPy", "Pandas", "PyTorch", "OpenCV", "Machine Learning", "Deep Learning", "NLP", "LLMs"],
+  databases: ["MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"],
+  infra: ["Docker", "Linux", "Windows CLI", "Git", "Netlify", "Vercel"],
   approach: "vibe-coder — fast, intuitive, production-focused",
   mantra: "Ship deliberately. Learn relentlessly. Never plateau.",
 };
@@ -96,7 +103,7 @@ const manan: Developer = {
 ## 💬 Quote of the Visit
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <br/>
@@ -106,46 +113,64 @@ const manan: Developer = {
 <div align="center">
 
 <svg width="660" height="300" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D946EF"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#FBBF24"/>
+    </linearGradient>
+  </defs>
   <style>
-    .lbl { fill: #8b949e; font-size: 12px; }
-    .track { fill: #21262d; rx: 5; }
+    .lbl { fill: #a1a1c9; font-size: 12px; }
+    .track { fill: #1e1b2e; rx: 5; }
     .bar { rx: 5; }
-    .key { fill: #6e7681; font-size: 11px; }
+    .key { fill: #7c7ca3; font-size: 11px; }
   </style>
 
   <text x="0" y="14" class="lbl">JavaScript / TypeScript / React / Node.js</text>
   <rect x="0" y="20" width="620" height="9" class="track"/>
-  <rect x="0" y="20" width="560" height="9" class="bar" fill="#2EA043"/>
+  <rect x="0" y="20" width="560" height="9" class="bar" fill="url(#g1)"/>
 
   <text x="0" y="47" class="lbl">Python / Tkinter</text>
   <rect x="0" y="53" width="620" height="9" class="track"/>
-  <rect x="0" y="53" width="500" height="9" class="bar" fill="#2EA043"/>
+  <rect x="0" y="53" width="500" height="9" class="bar" fill="url(#g1)"/>
 
-  <text x="0" y="80" class="lbl">C / C++</text>
+  <text x="0" y="80" class="lbl">C / C++ / Java</text>
   <rect x="0" y="86" width="620" height="9" class="track"/>
-  <rect x="0" y="86" width="330" height="9" class="bar" fill="#39C5CF"/>
+  <rect x="0" y="86" width="330" height="9" class="bar" fill="url(#g2)"/>
 
   <text x="0" y="113" class="lbl">Flutter / Dart / Kotlin</text>
   <rect x="0" y="119" width="620" height="9" class="track"/>
-  <rect x="0" y="119" width="300" height="9" class="bar" fill="#39C5CF"/>
+  <rect x="0" y="119" width="300" height="9" class="bar" fill="url(#g2)"/>
 
   <text x="0" y="146" class="lbl">NumPy / Pandas / OpenCV</text>
   <rect x="0" y="152" width="620" height="9" class="track"/>
-  <rect x="0" y="152" width="290" height="9" class="bar" fill="#A371F7"/>
+  <rect x="0" y="152" width="290" height="9" class="bar" fill="url(#g3)"/>
 
-  <text x="0" y="179" class="lbl">Machine Learning / Deep Learning / PyTorch</text>
+  <text x="0" y="179" class="lbl">Machine Learning / Deep Learning / PyTorch / NLP / LLMs</text>
   <rect x="0" y="185" width="620" height="9" class="track"/>
-  <rect x="0" y="185" width="250" height="9" class="bar" fill="#A371F7"/>
+  <rect x="0" y="185" width="250" height="9" class="bar" fill="url(#g3)"/>
 
-  <text x="0" y="212" class="lbl">NLP / LLMs</text>
+  <text x="0" y="212" class="lbl">Databases (MongoDB, MySQL, PostgreSQL)</text>
   <rect x="0" y="218" width="620" height="9" class="track"/>
-  <rect x="0" y="218" width="220" height="9" class="bar" fill="#A371F7"/>
+  <rect x="0" y="218" width="280" height="9" class="bar" fill="url(#g4)"/>
 
   <text x="0" y="245" class="lbl">Docker / Linux / CLI / Cloud (Supabase, Firebase, Vercel, Netlify)</text>
   <rect x="0" y="251" width="620" height="9" class="track"/>
-  <rect x="0" y="251" width="310" height="9" class="bar" fill="#D29922"/>
+  <rect x="0" y="251" width="310" height="9" class="bar" fill="url(#g4)"/>
 
-  <text x="0" y="282" class="key">■ Core Stack &#160;&#160;&#160; ■ Applied &#160;&#160;&#160; ■ AI / ML &#160;&#160;&#160; ■ Infra</text>
+  <text x="0" y="282" class="key">■ Core Stack &#160;&#160;&#160; ■ Cross-Platform &#160;&#160;&#160; ■ AI / ML &#160;&#160;&#160; ■ Data / Infra</text>
 </svg>
 
 </div>
@@ -154,11 +179,18 @@ const manan: Developer = {
 
 ## 🛠️ Full Tech Stack
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=BiasManan2010&theme=aurora" alt="stack section" />
+  </picture>
+</p>
+
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart,kotlin" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,dart,kotlin,bash" />
 <br/><br/>
 
 **Frontend**
@@ -168,25 +200,30 @@ const manan: Developer = {
 
 **Backend & Cross-Platform**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,flutter" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flutter" />
 <br/><br/>
 
 **AI / ML / Data**
 <br/>
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6366F1?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-A78BFA?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-D946EF?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-EC4899?style=for-the-badge&logo=opencv&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-6366F1?style=for-the-badge&logo=python&logoColor=white)
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 <br/><br/>
 
 **Infrastructure & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github" />
 <br/>
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-06B6D4?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br/><br/>
 
@@ -194,52 +231,65 @@ const manan: Developer = {
 <br/>
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,vite,npm" />
 ![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-2EA043?style=for-the-badge&logo=sparkles&logoColor=white)
-<br/><br/>
-
-**Databases & Backend Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,express" />
-<br/><br/>
-
-**Additional Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,bash,markdown,regex" />
+![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-A78BFA?style=for-the-badge&logo=sparkles&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=BiasManan2010&theme=aurora" alt="highlights section" />
+  </picture>
+</p>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
 
-</div>
+<br/>
 
-<div align="center">
-
-![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-2EA043?style=for-the-badge&logo=india&logoColor=white)
-![Age](https://img.shields.io/badge/Age-16-2EA043?style=for-the-badge&logo=starship&logoColor=white)
-![Certification](https://img.shields.io/badge/CERT_NAME-21262d?style=for-the-badge&logo=googlescholar&logoColor=2EA043)
+![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-A78BFA?style=for-the-badge&logo=india&logoColor=white)
+![Age](https://img.shields.io/badge/Age-16-EC4899?style=for-the-badge&logo=starship&logoColor=white)
+![Certification](https://img.shields.io/badge/CERT_NAME-1e1b2e?style=for-the-badge&logo=googlescholar&logoColor=A78BFA)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=BiasManan2010&theme=aurora" alt="stats section" />
+  </picture>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=2EA043&icon_color=2EA043&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasManan2010&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=2EA043&text_color=c9d1d9" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9c9e8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasManan2010&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9c9e8" width="42%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiasManan2010&theme=github-compact&bg_color=00000000&color=2EA043&line=2EA043&point=ffffff&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiasManan2010&theme=react-dark&bg_color=00000000&color=A78BFA&line=A78BFA&point=EC4899&hide_border=true" width="95%" />
 
-<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=github-dark-blue&hide_border=true&background=00000000&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" width="70%" />
+<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
 
 </div>
+
+<br/>
+
+## 🔥 Heatmap
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=BiasManan2010&theme=aurora" alt="heatmap section" />
+  </picture>
+</p>
 
 <br/>
 
@@ -247,9 +297,9 @@ const manan: Developer = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-day-green.svg" />
-  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-purple.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-day-purple.svg" />
+  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-purple.svg" alt="3D contribution graph" />
 </picture>
 <br/>
 <sub>Generated daily via <code>.github/workflows/profile-3d-contrib.yml</code></sub>
@@ -294,18 +344,21 @@ to auto-populate this section with a live weekly hours breakdown.
 ## 🎵 Now Playing
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=1e1b2e&interchange=true" alt="Spotify Now Playing" />
 </div>
 
 <sub>— requires a free deploy of <code>novatorem/spotify-github-profile</code></sub>
 
 <br/>
 
-## 📌 Pinned Work
+## 📌 Featured Projects
 
-> Repositories pin automatically from your GitHub profile settings — go to **Customize your pins** on your GitHub profile page and select up to 6 repos to feature here.
-
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=BiasManan2010&theme=aurora" alt="projects section" />
+  </picture>
+</p>
 
 ## 🚧 Currently Building
 
@@ -324,15 +377,24 @@ Most 16-year-olds are learning "Hello World." This one is shipping full-stack ap
 
 <br/>
 
+## 🌐 Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=BiasManan2010&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=BiasManan2010&theme=aurora" alt="social section" />
+  </picture>
+</p>
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=2EA043&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 <sub>If something here was useful to you, a coffee helps keep the builds coming</sub>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20&reversal=true" width="100%"/>
 
 <sub># thanks for stopping by</sub>
 

@@ -11,44 +11,37 @@
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](BUYMEACOFFEE_URL)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
-
 </div>
-
-<br/>
-
-## 🌌 Hero
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=BiasManan2010&theme=aurora" alt="hero section" />
-  </picture>
-</p>
 
 <br/>
 
 ## ⚡ Who I Am
 
-**Manan Bharti** — a 16-year-old full-stack developer and AI/ML engineer who builds like it's a job, not a hobby. Not a "learning to code" profile — a **shipping** profile. Web apps, AI systems, cross-platform apps, hackathon builds, designed and deployed end to end.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=BiasManan2010&theme=aurora" alt="about section" />
-  </picture>
-</p>
+**Manan Bharti** — a 16-year-old full-stack developer and AI/ML engineer who builds like it's a job, not a hobby. Not a "learning to code" profile. A **shipping** profile. Web apps, AI systems, cross-platform apps, hackathon builds — designed, coded, and deployed end to end.
 
 ```ts
 const manan: Developer = {
   age: 16,
   role: "Full-Stack Developer | AI / ML Engineer",
   status: "Building a personal AI ecosystem, one system at a time",
-  stack: ["JavaScript", "TypeScript", "Python", "C", "C++", "Java", "Dart", "Kotlin", "Bash"],
-  frameworks: ["React", "Node.js", "Express", "Tkinter", "Flutter"],
-  ai_ml: ["NumPy", "Pandas", "PyTorch", "OpenCV", "Machine Learning", "Deep Learning", "NLP", "LLMs"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"],
-  infra: ["Docker", "Linux", "Windows CLI", "Git", "Netlify", "Vercel"],
+  stack: [
+    "JavaScript", "TypeScript", "Python", "C", "C++",
+    "Java", "Dart", "Kotlin", "Bash"
+  ],
+  frameworks: [
+    "React", "Node.js", "Express", "Tkinter", "Flutter"
+  ],
+  ai_ml: [
+    "NumPy", "Pandas", "PyTorch", "OpenCV",
+    "Machine Learning", "Deep Learning", "NLP", "LLMs"
+  ],
+  databases: [
+    "MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"
+  ],
+  infra: [
+    "Docker", "Linux", "Windows CLI", "Git",
+    "Netlify", "Vercel"
+  ],
   approach: "vibe-coder — fast, intuitive, production-focused",
   mantra: "Ship deliberately. Learn relentlessly. Never plateau.",
 };
@@ -146,7 +139,7 @@ const manan: Developer = {
   <rect x="0" y="53" width="620" height="9" class="track"/>
   <rect x="0" y="53" width="500" height="9" class="bar" fill="url(#g1)"/>
 
-  <text x="0" y="80" class="lbl">C / C++ / Java</text>
+  <text x="0" y="80" class="lbl">C / C++</text>
   <rect x="0" y="86" width="620" height="9" class="track"/>
   <rect x="0" y="86" width="330" height="9" class="bar" fill="url(#g2)"/>
 
@@ -158,19 +151,19 @@ const manan: Developer = {
   <rect x="0" y="152" width="620" height="9" class="track"/>
   <rect x="0" y="152" width="290" height="9" class="bar" fill="url(#g3)"/>
 
-  <text x="0" y="179" class="lbl">Machine Learning / Deep Learning / PyTorch / NLP / LLMs</text>
+  <text x="0" y="179" class="lbl">Machine Learning / Deep Learning / PyTorch</text>
   <rect x="0" y="185" width="620" height="9" class="track"/>
   <rect x="0" y="185" width="250" height="9" class="bar" fill="url(#g3)"/>
 
-  <text x="0" y="212" class="lbl">Databases (MongoDB, MySQL, PostgreSQL)</text>
+  <text x="0" y="212" class="lbl">NLP / LLMs</text>
   <rect x="0" y="218" width="620" height="9" class="track"/>
-  <rect x="0" y="218" width="280" height="9" class="bar" fill="url(#g4)"/>
+  <rect x="0" y="218" width="220" height="9" class="bar" fill="url(#g3)"/>
 
   <text x="0" y="245" class="lbl">Docker / Linux / CLI / Cloud (Supabase, Firebase, Vercel, Netlify)</text>
   <rect x="0" y="251" width="620" height="9" class="track"/>
   <rect x="0" y="251" width="310" height="9" class="bar" fill="url(#g4)"/>
 
-  <text x="0" y="282" class="key">■ Core Stack &#160;&#160;&#160; ■ Cross-Platform &#160;&#160;&#160; ■ AI / ML &#160;&#160;&#160; ■ Data / Infra</text>
+  <text x="0" y="282" class="key">■ Core Stack &#160;&#160;&#160; ■ Applied &#160;&#160;&#160; ■ AI / ML &#160;&#160;&#160; ■ Infra</text>
 </svg>
 
 </div>
@@ -179,18 +172,11 @@ const manan: Developer = {
 
 ## 🛠️ Full Tech Stack
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=BiasManan2010&theme=aurora" alt="stack section" />
-  </picture>
-</p>
-
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,dart,kotlin,bash" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,dart,kotlin" />
 <br/><br/>
 
 **Frontend**
@@ -200,7 +186,7 @@ const manan: Developer = {
 
 **Backend & Cross-Platform**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flutter" />
+<img src="https://skillicons.dev/icons?i=nodejs,flutter" />
 <br/><br/>
 
 **AI / ML / Data**
@@ -210,11 +196,6 @@ const manan: Developer = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-D946EF?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-EC4899?style=for-the-badge&logo=opencv&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-6366F1?style=for-the-badge&logo=python&logoColor=white)
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 <br/><br/>
 
 **Infrastructure & Cloud**
@@ -232,25 +213,30 @@ const manan: Developer = {
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,vite,npm" />
 ![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-A78BFA?style=for-the-badge&logo=sparkles&logoColor=white)
+<br/><br/>
+
+**Databases & Backend Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,express" />
+<br/><br/>
+
+**Additional Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,bash,markdown,regex" />
 
 </div>
 
 <br/>
 
-## 🏆 Achievements & Highlights
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/highlights?username=BiasManan2010&theme=aurora" alt="highlights section" />
-  </picture>
-</p>
+## 🏆 Achievements
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
 
-<br/>
+</div>
+
+<div align="center">
 
 ![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-A78BFA?style=for-the-badge&logo=india&logoColor=white)
 ![Age](https://img.shields.io/badge/Age-16-EC4899?style=for-the-badge&logo=starship&logoColor=white)
@@ -260,14 +246,7 @@ const manan: Developer = {
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=BiasManan2010&theme=aurora" alt="stats section" />
-  </picture>
-</p>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -279,17 +258,6 @@ const manan: Developer = {
 <img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
 
 </div>
-
-<br/>
-
-## 🔥 Heatmap
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=BiasManan2010&theme=aurora" alt="heatmap section" />
-  </picture>
-</p>
 
 <br/>
 
@@ -351,14 +319,11 @@ to auto-populate this section with a live weekly hours breakdown.
 
 <br/>
 
-## 📌 Featured Projects
+## 📌 Pinned Work
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=BiasManan2010&theme=aurora" alt="projects section" />
-  </picture>
-</p>
+> Repositories pin automatically from your GitHub profile settings — go to **Customize your pins** on your GitHub profile page and select up to 6 repos to feature here.
+
+<br/>
 
 ## 🚧 Currently Building
 
@@ -376,15 +341,6 @@ Most 16-year-olds are learning "Hello World." This one is shipping full-stack ap
 </details>
 
 <br/>
-
-## 🌐 Connect
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=BiasManan2010&theme=aurora&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=BiasManan2010&theme=aurora" alt="social section" />
-  </picture>
-</p>
 
 <div align="center">
 

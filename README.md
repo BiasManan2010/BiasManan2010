@@ -26,18 +26,21 @@ const manan: Developer = {
   status: "Building a personal AI ecosystem, one system at a time",
   stack: [
     "JavaScript", "TypeScript", "Python", "C", "C++",
-    "Dart", "Kotlin"
+    "Java", "Dart", "Kotlin", "Bash"
   ],
   frameworks: [
-    "React", "Node.js", "Tkinter", "Flutter"
+    "React", "Node.js", "Express", "Tkinter", "Flutter"
   ],
   ai_ml: [
     "NumPy", "Pandas", "PyTorch", "OpenCV",
     "Machine Learning", "Deep Learning", "NLP", "LLMs"
   ],
+  databases: [
+    "MongoDB", "MySQL", "PostgreSQL", "Supabase", "Firebase"
+  ],
   infra: [
-    "Docker", "Linux", "Windows CLI",
-    "Supabase", "Firebase", "Netlify", "Vercel"
+    "Docker", "Linux", "Windows CLI", "Git",
+    "Netlify", "Vercel"
   ],
   approach: "vibe-coder — fast, intuitive, production-focused",
   mantra: "Ship deliberately. Learn relentlessly. Never plateau.",
@@ -189,9 +192,19 @@ const manan: Developer = {
 
 **Tools & Workflow**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vite,npm" />
 ![CLI](https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Vibe Coder](https://img.shields.io/badge/Vibe%20Coder-2EA043?style=for-the-badge&logo=sparkles&logoColor=white)
+<br/><br/>
+
+**Databases & Backend Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,express" />
+<br/><br/>
+
+**Additional Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,bash,markdown,regex" />
 
 </div>
 

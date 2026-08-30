@@ -8,33 +8,12 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiasManan2010)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbharti2010@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mananbharti)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](BUYMEACOFFEE_URL)
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=80&color=gradient&customColorList=6,11,20" width="100%"/>
 
 </div>
-
-<br/>
-
-## Profile Overview
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-```ts
-const manan: Developer = {
-  age: 16,
-  role: "Full-Stack Developer | AI / ML Engineer",
-  focus: ["Machine Learning", "Deep Learning", "NLP", "LLMs", "AI Systems"],
-  stack: ["JavaScript", "TypeScript", "Python", "C", "C++", "Java", "Dart", "Kotlin"],
-  building: "a personal AI ecosystem, one system at a time",
-  principle: "Ship deliberately. Learn continuously.",
-};
-```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -42,41 +21,58 @@ const manan: Developer = {
 <tr>
 <td align="center" width="20%">
 
+<img width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png"/>
+<br/>
 **Full-Stack**
-<br/>
-<sub>Frontend + Backend</sub>
 
 </td>
 <td align="center" width="20%">
 
+<img width="40" src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png"/>
+<br/>
 **AI / ML**
-<br/>
-<sub>DL · NLP · LLMs</sub>
 
 </td>
 <td align="center" width="20%">
 
+<img width="40" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/>
+<br/>
 **Cross-Platform**
-<br/>
-<sub>Flutter · Kotlin</sub>
 
 </td>
 <td align="center" width="20%">
 
+<img width="40" src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png"/>
+<br/>
 **Systems**
-<br/>
-<sub>CLI · Linux · Docker</sub>
 
 </td>
 <td align="center" width="20%">
 
-**16**
+<img width="40" src="https://cdn-icons-png.flaticon.com/512/3313/3313998.png"/>
 <br/>
-<sub>years old</sub>
+**16 y/o**
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+## Profile Summary
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9c9e8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BiasManan2010&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9c9e8&layout=compact" width="42%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiasManan2010&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BiasManan2010&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BiasManan2010&theme=radical&utcOffset=5.5" width="32%" />
 
 </div>
 
@@ -151,48 +147,25 @@ const manan: Developer = {
 
 <div align="center">
 
-**Languages**
-<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,dart,kotlin,bash" />
 <br/><br/>
-
-**Frontend**
-<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 <br/><br/>
-
-**Backend & Cross-Platform**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flutter" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flutter,mongodb,mysql,postgresql" />
 <br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-<br/><br/>
-
-**Infrastructure & Cloud**
-<br/>
 <img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github" />
-<br/>
-![Supabase](https://img.shields.io/badge/Supabase-06B6D4?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-06B6D4?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 <br/><br/>
-
-**AI / ML**
-<br/>
-![NumPy](https://img.shields.io/badge/NumPy-6366F1?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-A78BFA?style=flat-square&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-D946EF?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-EC4899?style=flat-square&logo=opencv&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-6366F1?style=flat-square&logo=python&logoColor=white)
-<br/><br/>
-
-**Tools**
-<br/>
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman,vite,npm" />
+<br/><br/>
+
+![Supabase](https://img.shields.io/badge/Supabase-06B6D4?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-06B6D4?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6366F1?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-A78BFA?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-D946EF?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-EC4899?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
@@ -206,29 +179,27 @@ const manan: Developer = {
 
 <br/>
 
-![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-A78BFA?style=flat-square&logo=india&logoColor=white)
-![Certification](https://img.shields.io/badge/CERT_NAME-1e1b2e?style=flat-square&logo=googlescholar&logoColor=A78BFA)
+![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-A78BFA?style=for-the-badge&logo=india&logoColor=white)
+![Certification](https://img.shields.io/badge/CERT_NAME-1e1b2e?style=for-the-badge&logo=googlescholar&logoColor=A78BFA)
 
 </div>
 
 <br/>
 
-## GitHub Analytics
+## Live Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9c9e8" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasManan2010&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9c9e8" width="42%" />
+<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BiasManan2010&theme=react-dark&bg_color=00000000&color=A78BFA&line=A78BFA&point=EC4899&hide_border=true" width="95%" />
-
-<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
 
 </div>
 
 <br/>
 
-## Contribution Graph (3D)
+## Contribution Graph — 3D
 
 <div align="center">
 <picture>
@@ -242,19 +213,29 @@ const manan: Developer = {
 
 <br/>
 
-<details>
-<summary><b>Additional Modules</b> — coding activity, competitive programming, and extras</summary>
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the contribution graph" />
+</picture>
+<br/>
+<sub>Generated via <code>.github/workflows/snake.yml</code></sub>
+</div>
+
 <br/>
 
-**Weekly Coding Activity (WakaTime)**
+## Quote of the Visit
 
-<!--START_SECTION:waka-->
-```text
-Connect WakaTime and add the wakatime-readme-stats action
-to auto-populate this section with a weekly hours breakdown.
-```
-<!--END_SECTION:waka-->
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
 
+<br/>
+
+<details>
+<summary><b>Additional Modules</b> — competitive programming, music, and extras</summary>
 <br/>
 
 **Competitive Programming**
@@ -275,24 +256,17 @@ to auto-populate this section with a weekly hours breakdown.
 
 <sub>— requires a free deploy of <code>novatorem/spotify-github-profile</code></sub>
 
-<br/><br/>
-
-**Contribution Snake**
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</picture>
-</div>
-
-<sub>Generated via <code>.github/workflows/snake.yml</code></sub>
-
 </details>
 
 <br/>
 
 ## Currently Building
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,firebase" />
+
+</div>
 
 - A shift-management PWA — Next.js + Firebase
 - An AI-powered project for hackathon preparation
@@ -303,12 +277,10 @@ to auto-populate this section with a weekly hours breakdown.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=A78BFA&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 <sub>If something here was useful to you, a coffee helps keep the builds coming</sub>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 </div>

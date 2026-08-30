@@ -17,45 +17,11 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="20%">
-
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png"/>
-<br/>
-**Full-Stack**
-
-</td>
-<td align="center" width="20%">
-
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png"/>
-<br/>
-**AI / ML**
-
-</td>
-<td align="center" width="20%">
-
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/919/919851.png"/>
-<br/>
-**Cross-Platform**
-
-</td>
-<td align="center" width="20%">
-
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png"/>
-<br/>
-**Systems**
-
-</td>
-<td align="center" width="20%">
-
-<img width="40" src="https://cdn-icons-png.flaticon.com/512/3313/3313998.png"/>
-<br/>
-**16 y/o**
-
-</td>
-</tr>
-</table>
+![Full-Stack](https://img.shields.io/badge/Full--Stack-6366F1?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-A78BFA?style=for-the-badge)
+![Cross-Platform](https://img.shields.io/badge/Cross--Platform-06B6D4?style=for-the-badge)
+![Systems](https://img.shields.io/badge/Systems-D946EF?style=for-the-badge)
+![16 y/o](https://img.shields.io/badge/16%20y%2Fo-EC4899?style=for-the-badge)
 
 </div>
 
@@ -64,11 +30,6 @@
 ## Profile Summary
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BiasManan2010&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=c9c9e8" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=BiasManan2010&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9c9e8&layout=compact" width="42%" />
-
-<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiasManan2010&theme=radical" width="32%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BiasManan2010&theme=radical" width="32%" />
@@ -82,64 +43,10 @@
 
 <div align="center">
 
-<svg width="640" height="260" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
-  <defs>
-    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#6366F1"/>
-      <stop offset="100%" stop-color="#A78BFA"/>
-    </linearGradient>
-    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#06B6D4"/>
-      <stop offset="100%" stop-color="#22D3EE"/>
-    </linearGradient>
-    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#D946EF"/>
-      <stop offset="100%" stop-color="#EC4899"/>
-    </linearGradient>
-    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#F59E0B"/>
-      <stop offset="100%" stop-color="#FBBF24"/>
-    </linearGradient>
-  </defs>
-  <style>
-    .lbl { fill: #9d9dc2; font-size: 12px; }
-    .track { fill: #1e1b2e; rx: 5; }
-    .bar { rx: 5; }
-    .key { fill: #6f6f96; font-size: 11px; }
-  </style>
-
-  <text x="0" y="14" class="lbl">JavaScript / TypeScript / React / Node.js</text>
-  <rect x="0" y="20" width="600" height="8" class="track"/>
-  <rect x="0" y="20" width="540" height="8" class="bar" fill="url(#g1)"/>
-
-  <text x="0" y="45" class="lbl">Python / Tkinter</text>
-  <rect x="0" y="51" width="600" height="8" class="track"/>
-  <rect x="0" y="51" width="480" height="8" class="bar" fill="url(#g1)"/>
-
-  <text x="0" y="76" class="lbl">C / C++ / Java / Flutter / Dart / Kotlin</text>
-  <rect x="0" y="82" width="600" height="8" class="track"/>
-  <rect x="0" y="82" width="320" height="8" class="bar" fill="url(#g2)"/>
-
-  <text x="0" y="107" class="lbl">NumPy / Pandas / OpenCV</text>
-  <rect x="0" y="113" width="600" height="8" class="track"/>
-  <rect x="0" y="113" width="280" height="8" class="bar" fill="url(#g3)"/>
-
-  <text x="0" y="138" class="lbl">Machine Learning / Deep Learning / PyTorch / NLP / LLMs</text>
-  <rect x="0" y="144" width="600" height="8" class="track"/>
-  <rect x="0" y="144" width="240" height="8" class="bar" fill="url(#g3)"/>
-
-  <text x="0" y="169" class="lbl">Databases — MongoDB / MySQL / PostgreSQL</text>
-  <rect x="0" y="175" width="600" height="8" class="track"/>
-  <rect x="0" y="175" width="260" height="8" class="bar" fill="url(#g4)"/>
-
-  <text x="0" y="200" class="lbl">Docker / Linux / CLI / Cloud — Supabase, Firebase, Vercel, Netlify</text>
-  <rect x="0" y="206" width="600" height="8" class="track"/>
-  <rect x="0" y="206" width="300" height="8" class="bar" fill="url(#g4)"/>
-
-  <text x="0" y="236" class="key">■ Core Stack &#160;&#160;&#160; ■ Cross-Platform &#160;&#160;&#160; ■ AI / ML &#160;&#160;&#160; ■ Data / Infra</text>
-</svg>
+<img src="https://quickchart.io/chart?bkg=%231e1b2e&c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Docker%2FLinux%2FCLI%2FCloud%27%2C%27Databases%27%2C%27ML%2FDL%2FPyTorch%2FNLP%2FLLMs%27%2C%27NumPy%2FPandas%2FOpenCV%27%2C%27C%2FC%2B%2B%2FJava%2FFlutter%2FDart%2FKotlin%27%2C%27Python%2FTkinter%27%2C%27JS%2FTS%2FReact%2FNode.js%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B75%2C65%2C60%2C70%2C80%2C88%2C92%5D%2CbackgroundColor%3A%5B%27%23F59E0B%27%2C%27%23F59E0B%27%2C%27%23D946EF%27%2C%27%23D946EF%27%2C%27%2306B6D4%27%2C%27%236366F1%27%2C%27%236366F1%27%5D%2Cbarthickness%3A18%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7BxAxes%3A%5B%7Bticks%3A%7Bmax%3A100%2CfontColor%3A%27%23c9c9e8%27%7D%2CgridLines%3A%7Bcolor%3A%27%232a2740%27%7D%7D%5D%2CyAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%23c9c9e8%27%2CfontSize%3A11%7D%2CgridLines%3A%7Bdisplay%3Afalse%7D%7D%5D%7D%7D%7D&width=640&height=280&devicePixelRatio=2" alt="Skill chart" width="90%" />
 
 </div>
+
 
 <br/>
 
@@ -175,7 +82,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
 
 <br/>
 
@@ -190,10 +97,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiasManan2010&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=c9c9e8" width="42%" />
-<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BiasManan2010&theme=react-dark&bg_color=00000000&color=A78BFA&line=A78BFA&point=EC4899&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
 
 </div>
 

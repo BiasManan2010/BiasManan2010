@@ -97,21 +97,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BiasManan2010&theme=dracula&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
-
-<br/>
-
-![Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-A78BFA?style=for-the-badge&logo=india&logoColor=white)
-![Certification](https://img.shields.io/badge/CERT_NAME-1e1b2e?style=for-the-badge&logo=googlescholar&logoColor=A78BFA)
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## Contribution Calendar

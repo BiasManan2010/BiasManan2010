@@ -11,7 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](BUYMEACOFFEE_URL)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=70&color=gradient&customColorList=6,11,20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-6366F1?style=for-the-badge)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-A78BFA?style=for-the-badge)
@@ -55,18 +55,32 @@
 
 ## Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,dart,kotlin,bash" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,flutter" /></td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /></td>
+</tr>
+<tr>
+<td align="center"><b>Infra & Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github,vscode,figma,postman,vite,npm" /></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,dart,kotlin,bash" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flutter,mongodb,mysql,postgresql" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,windows,git,github" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,vite,npm" />
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ![Supabase](https://img.shields.io/badge/Supabase-06B6D4?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=black)
@@ -125,13 +139,11 @@
 ## Contribution Graph — 3D
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-purple.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-day-purple.svg" />
-  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/profile-3d-contrib/profile-night-purple.svg" alt="3D contribution graph" />
-</picture>
+
+<img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="90%" />
+
 <br/>
-<sub>Generated daily via <code>.github/workflows/profile-3d-contrib.yml</code></sub>
+<sub>Generated daily via <code>.github/workflows/profile-3d-contrib.yml</code> — appears after the workflow's first run</sub>
 </div>
 
 <br/>

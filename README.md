@@ -121,17 +121,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
-## Contribution Graph — 3D
+## Contribution Graph
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="90%" />
 
-<br/>
-<sub>Generated daily via <code>.github/workflows/profile-3d-contrib.yml</code> — appears after the workflow's first run</sub>
-</div>
 
-<br/>
 
 ## Contribution Snake
 
@@ -141,7 +137,7 @@
   <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the contribution graph" />
 </picture>
 <br/>
-<sub>Generated via <code>.github/workflows/snake.yml</code></sub>
+
 </div>
 
 <br/>

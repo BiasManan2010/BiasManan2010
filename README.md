@@ -8,8 +8,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiasManan2010)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
-[![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](BUYMEACOFFEE_URL)
+[![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbharti2010@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mananbharti)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
 
@@ -163,10 +163,9 @@
 **Competitive Programming**
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="55%" />
+<img src="https://leetcard.jacoblin.cool/manan-bharti?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="55%" />
 </div>
 
-<sub>— replace <code>LEETCODE_USERNAME</code> to activate</sub>
 
 <br/><br/>
 

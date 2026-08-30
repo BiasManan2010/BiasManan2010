@@ -11,11 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
 [![Buy Me A Coffee](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](BUYMEACOFFEE_URL)
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=80&color=gradient&customColorList=6,11,20" width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=70&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-6366F1?style=for-the-badge)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-A78BFA?style=for-the-badge)
@@ -39,16 +35,23 @@
 
 <br/>
 
-## Skill Set
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
+
+## Skill Breakdown
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?bkg=%231e1b2e&c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Docker%2FLinux%2FCLI%2FCloud%27%2C%27Databases%27%2C%27ML%2FDL%2FPyTorch%2FNLP%2FLLMs%27%2C%27NumPy%2FPandas%2FOpenCV%27%2C%27C%2FC%2B%2B%2FJava%2FFlutter%2FDart%2FKotlin%27%2C%27Python%2FTkinter%27%2C%27JS%2FTS%2FReact%2FNode.js%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B75%2C65%2C60%2C70%2C80%2C88%2C92%5D%2CbackgroundColor%3A%5B%27%23F59E0B%27%2C%27%23F59E0B%27%2C%27%23D946EF%27%2C%27%23D946EF%27%2C%27%2306B6D4%27%2C%27%236366F1%27%2C%27%236366F1%27%5D%2Cbarthickness%3A18%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7BxAxes%3A%5B%7Bticks%3A%7Bmax%3A100%2CfontColor%3A%27%23c9c9e8%27%7D%2CgridLines%3A%7Bcolor%3A%27%232a2740%27%7D%7D%5D%2CyAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%23c9c9e8%27%2CfontSize%3A11%7D%2CgridLines%3A%7Bdisplay%3Afalse%7D%7D%5D%7D%7D%7D&width=640&height=280&devicePixelRatio=2" alt="Skill chart" width="90%" />
+<img src="https://quickchart.io/chart?bkg=%231e1b2e&width=640&height=280&devicePixelRatio=2&c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Docker/Linux/CLI/Cloud%27%2C%27Databases%27%2C%27ML/DL/PyTorch/NLP/LLMs%27%2C%27NumPy/Pandas/OpenCV%27%2C%27C/C%2B%2B/Java/Flutter/Dart/Kotlin%27%2C%27Python/Tkinter%27%2C%27JS/TS/React/Node.js%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B75%2C65%2C60%2C70%2C80%2C88%2C92%5D%2CbackgroundColor%3A%5B%27%23F59E0B%27%2C%27%23F59E0B%27%2C%27%23D946EF%27%2C%27%23D946EF%27%2C%27%2306B6D4%27%2C%27%236366F1%27%2C%27%236366F1%27%5D%2CbarThickness%3A18%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7BxAxes%3A%5B%7Bticks%3A%7Bmax%3A100%2CfontColor%3A%27%23c9c9e8%27%7D%2CgridLines%3A%7Bcolor%3A%27%232a2740%27%7D%7D%5D%2CyAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27%23c9c9e8%27%2CfontSize%3A11%7D%2CgridLines%3A%7Bdisplay%3Afalse%7D%7D%5D%7D%7D%7D" alt="Skill bar chart" width="90%" />
+
+<br/><br/>
+
+<img src="https://quickchart.io/chart?bkg=%231e1b2e&width=440&height=380&devicePixelRatio=2&c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27AI%20/%20ML%27%2C%27Systems%27%2C%27Databases%27%2C%27Cross-Platform%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Skill%27%2Cdata%3A%5B88%2C85%2C72%2C68%2C65%2C60%5D%2CbackgroundColor%3A%27rgba%28167%2C139%2C250%2C0.35%29%27%2CborderColor%3A%27%23A78BFA%27%2CpointBackgroundColor%3A%27%23EC4899%27%2CpointBorderColor%3A%27%23EC4899%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscale%3A%7Bticks%3A%7Bdisplay%3Afalse%2CsuggestedMax%3A100%7D%2CgridLines%3A%7Bcolor%3A%27%232a2740%27%7D%2CangleLines%3A%7Bcolor%3A%27%232a2740%27%7D%2CpointLabels%3A%7BfontColor%3A%27%23c9c9e8%27%2CfontSize%3A12%7D%7D%7D%7D" alt="Skill radar chart" width="55%" />
 
 </div>
 
-
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## Tech Stack
 
@@ -78,6 +81,8 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
+
 ## Achievements
 
 <div align="center">
@@ -93,6 +98,18 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
+
+## Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/A78BFA/BiasManan2010" alt="Contribution calendar" width="90%" />
+
+</div>
+
+<br/>
+
 ## Live Analytics
 
 <div align="center">
@@ -102,6 +119,8 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## Contribution Graph — 3D
 
@@ -129,6 +148,8 @@
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=6,11,20" width="100%"/>
 
 ## Quote of the Visit
 
@@ -161,21 +182,6 @@
 <sub>— requires a free deploy of <code>novatorem/spotify-github-profile</code></sub>
 
 </details>
-
-<br/>
-
-## Currently Building
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,firebase" />
-
-</div>
-
-- A shift-management PWA — Next.js + Firebase
-- An AI-powered project for hackathon preparation
-- Prepping for **Smart India Hackathon 2026**
-- A personal AI ecosystem — local models and custom pipelines, built from the ground up
 
 <br/>
 

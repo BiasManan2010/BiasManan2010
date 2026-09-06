@@ -6,7 +6,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BiasManan2010)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mananbharti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbharti2010@gmail.com)
 [![Buy Me A Chai](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&label=%F0%9F%8D%B5%20Buy%20Me%20A%20Chai)](https://buymeachai.in/mananbharti)
@@ -28,9 +28,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BiasManan2010&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BiasManan2010&theme=radical" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BiasManan2010&theme=radical&utcOffset=5.5" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mananbharti&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mananbharti&theme=radical" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananbharti&theme=radical&utcOffset=5.5" width="32%" />
 
 </div>
 
@@ -104,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/A78BFA/BiasManan2010" alt="Contribution calendar" width="90%" />
+<img src="https://ghchart.rshah.org/A78BFA/mananbharti" alt="Contribution calendar" width="90%" />
 
 </div>
 
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BiasManan2010&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
+<img src="https://streak-stats.demolab.com?user=mananbharti&theme=highcontrast&hide_border=true&background=00000000&ring=A78BFA&fire=EC4899&currStreakLabel=A78BFA" width="70%" />
 
 </div>
 
@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="90%" />
+<img src="https://raw.githubusercontent.com/mananbharti/mananbharti/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="90%" />
 
 
 
@@ -134,8 +134,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/BiasManan2010/BiasManan2010/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mananbharti/mananbharti/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mananbharti/mananbharti/output/github-contribution-grid-snake-dark.svg" alt="Snake eating the contribution graph" />
 </picture>
 <br/>
 
@@ -180,7 +180,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BiasManan2010&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mananbharti&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 <sub>If something here was useful to you, a coffee helps keep the builds coming</sub>
 

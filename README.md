@@ -9,7 +9,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mananbharti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mananbharti2010@gmail.com)
-[![Buy Me A Chai](https://img.shields.io/badge/Support-FFDD00?style=for-the-badge&label=%F0%9F%8D%B5%20Buy%20Me%20A%20Chai)](https://buymeachai.in/mananbharti)
+
+<br/>
+
+<a href="https://buymeachai.in/mananbharti"><img src="https://raw.githubusercontent.com/mananbharti/mananbharti/main/assets/buymeachai.png" alt="buymeachai" height="50" /></a>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20" width="100%"/>
@@ -182,7 +185,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mananbharti&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
-<sub>If something here was useful to you, a coffee helps keep the builds coming</sub>
+<br/>
+
+<a href="https://buymeachai.in/mananbharti"><img src="https://raw.githubusercontent.com/mananbharti/mananbharti/main/assets/buymeachai.png" alt="buymeachai" height="50" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
